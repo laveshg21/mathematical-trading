@@ -1,2 +1,3 @@
-# Mathematical_Trading-Strategies
-Repository for Stamatics Summer Project '23 
+# Mathematical Trading Strategies
+
+## Week 1: Financial Metrics
