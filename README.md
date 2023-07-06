@@ -11,7 +11,7 @@
 - Leverage [`yfinance`](https://pypi.org/project/yfinance/) to access financial data for the chosen indexes and equities.
 - Compile and present the aforementioned data (evaluations/ratios) in tabular form.
 
-## Week 2: Lead Lag Relationship
+## Week 3-4: Lead Lag Relationship
 Learnt generating trade signals using Python, let's delve into some basic strategies. First in line is the implementation of moving averages. Have a look at the resources on Simple Moving Average (SMA), Exponential Moving Average (EMA), and the advantages of EMA over SMA. Explore how the crossover of moving averages with different intervals can help in trend identification.
 
 https://www.investopedia.com/terms/e/ema.asp
